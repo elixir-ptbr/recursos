@@ -33,3 +33,5 @@ Existe também um grupo com vários membros no Facebook:
 # Contribua!
 
 Quer contribuir com novos itens e categorias? Faça um *pull request* ou entre em contato com [@adolfont no Twitter](https://twitter.com/adolfont).
+
+Uma lista de recursos em portugu~es está em [Recursos sobre Elixir em português](https://github.com/adolfont/elixir_cop/blob/master/resources/portuguese.md).
