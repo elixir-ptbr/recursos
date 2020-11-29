@@ -1,5 +1,3 @@
-# Conteúdo sobre Elixir em português brasileiro
-
 
 ## Textos
 
