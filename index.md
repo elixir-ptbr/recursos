@@ -48,6 +48,12 @@ Existe também um grupo com vários membros no Facebook:
   - [Dia 2](https://www.youtube.com/watch?v=umFAsOYZrqQ)
 - [Elixir Brasil 2018](https://pt-br.eventials.com/locaweb/events/elixir-brasil/)
 
+## Redes Sociais
+
+### Contas dedicadas à divulgação de Elixir
+
+- [@elixir_utfpr no Twitter](https://twitter.com/elixir_utfpr)
+
 # Contribua!
 
 Quer contribuir com novos itens e categorias? Faça um *pull request* ou entre em contato com [@adolfont no Twitter](https://twitter.com/adolfont).
