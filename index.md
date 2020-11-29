@@ -16,12 +16,12 @@ A [Elixir School](https://elixirschool.com/pt/) se apresenta como "o primeiro de
 
 Os principais grupos de discussão sobre Elixir em português estão no Telegram: 
 
-- Elixir Brasil https://t.me/elixirbr
-- Elug PE https://t.me/elugPE
-- Elug CE https://t.me/elug_ce
-- ElugRN https://t.me/ElugRN 
-- Elixir \|\> CWB https://t.me/elixir_cwb (Curitiba e região metropolitana)
-- Erlang Brasil https://t.me/erlangbrasil
+- [Elixir Brasil](https://t.me/elixirbr)
+- [Elug PE](https://t.me/elugPE)
+- [Elug CE](https://t.me/elug_ce)
+- [ElugRN](https://t.me/ElugRN) 
+- [Elixir \|\> CWB](https://t.me/elixir_cwb): Curitiba e região metropolitana
+- [Erlang Brasil](https://t.me/erlangbrasil)
 
 
 ### Facebook 
