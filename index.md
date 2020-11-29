@@ -30,6 +30,15 @@ Existe também um grupo com vários membros no Facebook:
 
 - [Elixir Brasil](https://www.facebook.com/groups/596782640402615/)
 
+## Vídeos
+
+### Palestras de eventos
+
+- [Elixir Brasil 2020](https://2020.elixirbrasil.com/):
+  - [Dia 1](https://youtu.be/bG8J9I2XPso)
+  - [Dia 2](https://www.youtube.com/watch?v=umFAsOYZrqQ)
+- [Elixir Brasil 2018](https://pt-br.eventials.com/locaweb/events/elixir-brasil/)
+
 # Contribua!
 
 Quer contribuir com novos itens e categorias? Faça um *pull request* ou entre em contato com [@adolfont no Twitter](https://twitter.com/adolfont).
