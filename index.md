@@ -28,7 +28,7 @@ Os principais grupos de discussão sobre Elixir em português estão no Telegram
 
 Existe também um grupo com vários membros no Facebook:
 
-- Elixir Brasil https://www.facebook.com/groups/596782640402615/
+- [Elixir Brasil](https://www.facebook.com/groups/596782640402615/)
 
 # Contribua!
 
