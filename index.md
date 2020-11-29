@@ -9,7 +9,7 @@ Até onde sei, o único livro sobre Elixir em língua portuguesa é [Elixir: Do 
 
 ### Blogs 
 
-## Em atividade (ao menos uma postagem nos últimos 3 meses(
+## Em atividade (ao menos uma postagem nos últimos 3 meses)
 
 - [Willian Frantz](https://dev.to/wlsf)
 - [Elixir UTFPR](https://dev.to/elixir_utfpr)
@@ -52,4 +52,4 @@ Existe também um grupo com vários membros no Facebook:
 
 Quer contribuir com novos itens e categorias? Faça um *pull request* ou entre em contato com [@adolfont no Twitter](https://twitter.com/adolfont).
 
-Uma lista de recursos em portugu~es está em [Recursos sobre Elixir em português](https://github.com/adolfont/elixir_cop/blob/master/resources/portuguese.md).
+Uma lista de recursos em português está em [Recursos sobre Elixir em português](https://github.com/adolfont/elixir_cop/blob/master/resources/portuguese.md).
