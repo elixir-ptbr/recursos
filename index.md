@@ -8,3 +8,28 @@ Até onde sei, o único livro sobre Elixir em língua portuguesa é [Elixir: Do 
 ## Sites para iniciantes
 
 A [Elixir School](https://elixirschool.com/pt/) se apresenta como "o primeiro destino para pessoas procurando aprender e dominar a linguagem de programação Elixir".  Está disponível em várias lingaugens, inclusive português.
+
+
+## Grupos de discussão
+
+### Telegram
+
+Os principais grupos de discussão sobre Elixir em português estão no Telegram: 
+
+- Elixir Brasil https://t.me/elixirbr
+- Elug PE https://t.me/elugPE
+- Elug CE https://t.me/elug_ce
+- ElugRN https://t.me/ElugRN 
+- Elixir |> CWB https://t.me/elixir_cwb
+- Erlang Brasil https://t.me/erlangbrasil
+
+
+### Facebook 
+
+Existe também um grupo com vários membros no Facebook:
+
+- Elixir Brasil https://www.facebook.com/groups/596782640402615/
+
+# Contribua!
+
+Quer contribuir com novos itens e categorias? Faça um //pull request// ou entre em contato com [@adolfont no Twitter](https://twitter.com/adolfont).
