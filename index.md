@@ -18,6 +18,7 @@ Até onde sei, o único livro sobre Elixir em língua portuguesa é [Elixir: Do 
 
 A [Elixir School](https://elixirschool.com/pt/) se apresenta como "o primeiro destino para pessoas procurando aprender e dominar a linguagem de programação Elixir".  Está disponível em várias lingaugens, inclusive português.
 
+O repositório [Elixir4Noobs](https://github.com/aleDsz/elixir4noobs) contem também muitos materiais escritos pela [Comunidade He4rt](https://heartdevs.com/) ensinando o básico da linguagem. 
 
 ## Grupos de discussão
 
