@@ -1,5 +1,9 @@
 # Recursos sobre Elixir em Português do Brasil
 
+## Podcasts
+
+Em 2021 foi criado o Elixir em Foco, o primeiro podcast sobre Elixir em português. Acesse o site [Elixir em Foco](http://elixiremfoco.com) ou procure por Elixir em Foco nos principais agregadores de áudio (como [Spotify](https://open.spotify.com/show/43aDX4kajkNCKaCYpGPooJ)). A plataforma de áudio utilizada pelos criadores do podcast é o [Anchor](https://anchor.fm/elixiremfoco/).
+
 
 ## Textos
 
