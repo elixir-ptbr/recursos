@@ -9,7 +9,20 @@ Na lista abaixo de vídeos iremos seguir a ordem de temas na [Elixir School](htt
 
 
 ### Instalando Elixir
+
+- [Instalação do Elixir com asdf no Linux](https://www.youtube.com/watch?v=EmHfoH3FOM0)
+- [Instalação do Elixir com asdf no Linux](https://youtu.be/WrSXTK4vc20)
+- [Instalação do Elixir no Windows](https://youtu.be/V68AdTOfaI8)
+- [Instalação do Elixir com asdf no Windows com WSL](https://youtu.be/jf4xvVjZ_VU)
+
+Não encontrei nenhum vídeo mostrando como instalar o Elixir em um Mac, mas acredito que o método com asdf funciona lá também.
+
 ### Modo Interativo
+
+O programa que permite você utilizar o Elixir de modo interativo se chama iex. Ele já é instalado quando você instala o Elixir.
+
+- [Elixir - iEX e GenServer - Parte 1](https://youtu.be/TKU6cpRAjvI)
+- [REPL Driven Development em Elixir com IEx Por Miriam Retka](https://www.youtube.com/watch?v=98T_8RB0eqQ)
 
 ## Tipos Básicos
 Inteiros, Pontos Flutuantes, Booleanos, Átomos, Strings
@@ -22,6 +35,7 @@ Inteiros, Pontos Flutuantes, Booleanos, Átomos, Strings
 ## Operações Básicas
 Aritmética, Booleanos, Comparação, Interpolação de Strings, Concatenação de Strings
 
+- [Curso de Elixir: Operações com Tipos Básicos](https://youtu.be/-jqj0b75UDI)
 
 # Canais
 
