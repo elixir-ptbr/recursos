@@ -20,7 +20,7 @@ Até onde sei, o único livro sobre Elixir em língua portuguesa é [Elixir: Do 
 
 ## Sites para iniciantes
 
-Acesse [Aprendendo Elixir](aprendendo_elixir/index.md)
+Acesse [Aprendendo Elixir](aprendendo_elixir/)
 
 ## Grupos de discussão
 
