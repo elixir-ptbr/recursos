@@ -4,7 +4,7 @@ Na lista abaixo de vídeos iremos seguir a ordem de temas na [Elixir School](htt
 
 ## Primeiros Passos
 
-- [Elixir - Introdução | codehints 1](https://www.youtube.com/watch?v=sW_uotba0mY) - Jean Tux
+- [Elixir - Introdução - codehints 1](https://www.youtube.com/watch?v=sW_uotba0mY) - Jean Tux
 - [Por que aprender Elixir? (em 10 minutos)](https://www.youtube.com/watch?v=MNujpmB_aro) - Adolfo Neto
 
 
@@ -15,7 +15,7 @@ Na lista abaixo de vídeos iremos seguir a ordem de temas na [Elixir School](htt
 Inteiros, Pontos Flutuantes, Booleanos, Átomos, Strings
 
 - [Curso de Elixir: Tipos Básicos](https://www.youtube.com/watch?v=gJ-1xUlD8sY) - Adolfo Neto
-- [Elixir - Tipos básicos | codehints 2](https://www.youtube.com/watch?v=sqON6AM59So) - Jean Tux
+- [Elixir - Tipos básicos - codehints 2](https://www.youtube.com/watch?v=sqON6AM59So) - Jean Tux
 
 
 
