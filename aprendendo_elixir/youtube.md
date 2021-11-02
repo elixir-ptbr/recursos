@@ -1,6 +1,6 @@
 # Vídeos sobre Elixir no YouTube, em português, organizados por tema
 
-Na lista abaixo de vídeos iremos seguir a ordem de temas na Elixir School
+Na lista abaixo de vídeos iremos seguir a ordem de temas na [Elixir School](https://elixirschool.com/pt/lessons/basics/basics).
 
 ## Primeiros Passos
 
