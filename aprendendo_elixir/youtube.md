@@ -4,7 +4,7 @@ Na lista abaixo de vídeos iremos seguir a ordem de temas na [Elixir School](htt
 
 ## Primeiros Passos
 
-- [Elixir - Introdução | codehints #1](https://www.youtube.com/watch?v=sW_uotba0mY) - Jean Tux
+- [Elixir - Introdução | codehints 1](https://www.youtube.com/watch?v=sW_uotba0mY) - Jean Tux
 - [Por que aprender Elixir? (em 10 minutos)](https://www.youtube.com/watch?v=MNujpmB_aro) - Adolfo Neto
 
 
